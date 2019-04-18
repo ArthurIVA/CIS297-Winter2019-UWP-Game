@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpaceInvaders", "SpaceInvaders\SpaceInvaders.vcxproj", "{8083F06A-5D19-472B-8D12-08B03DC27E10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Debug|ARM.ActiveCfg = Debug|ARM
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Debug|ARM.Build.0 = Debug|ARM
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Debug|ARM.Deploy.0 = Debug|ARM
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Debug|ARM64.Build.0 = Debug|ARM64
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Debug|x64.ActiveCfg = Debug|x64
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Debug|x64.Build.0 = Debug|x64
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Debug|x64.Deploy.0 = Debug|x64
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Debug|x86.ActiveCfg = Debug|Win32
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Debug|x86.Build.0 = Debug|Win32
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Debug|x86.Deploy.0 = Debug|Win32
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Release|ARM.ActiveCfg = Release|ARM
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Release|ARM.Build.0 = Release|ARM
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Release|ARM.Deploy.0 = Release|ARM
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Release|ARM64.ActiveCfg = Release|ARM64
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Release|ARM64.Build.0 = Release|ARM64
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Release|ARM64.Deploy.0 = Release|ARM64
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Release|x64.ActiveCfg = Release|x64
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Release|x64.Build.0 = Release|x64
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Release|x64.Deploy.0 = Release|x64
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Release|x86.ActiveCfg = Release|Win32
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Release|x86.Build.0 = Release|Win32
+		{8083F06A-5D19-472B-8D12-08B03DC27E10}.Release|x86.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E675D80-8E72-4FDF-924E-16BABD256B36}
+	EndGlobalSection
+EndGlobal
